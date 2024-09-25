@@ -1,7 +1,3 @@
-Here’s a simplified version of the **JobScraper** markdown, stripped of logos and extra formatting:
-
----
-
 # JOBSCRAPER
 
 *Uncover Opportunities, Empower Your Career Journey!*

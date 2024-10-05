@@ -90,10 +90,3 @@ This project is licensed under the [SELECT-A-LICENSE](https://choosealicense.com
 
 ---
 
-## Acknowledgments
-
-- List any contributors or resources here.
-
----
-
-This version is clear, concise, and easy to read for any markdown reader without any unnecessary details or formatting.
